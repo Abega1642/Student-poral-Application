@@ -11,7 +11,7 @@ public class DBConnection {
     private Connection connection;
     private String url = "jdbc:postgresql://localhost:5432/student_portal";
     private String user = "postgres";
-    private String password = "razafindratelo";
+    private String password = "xxx";
 
     public DBConnection() {
         try {
