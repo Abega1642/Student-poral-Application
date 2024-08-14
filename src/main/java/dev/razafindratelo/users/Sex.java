@@ -1,4 +1,4 @@
-package dev.razafindratelo;
+package dev.razafindratelo.users;
 
 public enum Sex {
     MALE,

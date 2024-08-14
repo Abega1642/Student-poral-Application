@@ -1,4 +1,4 @@
-package dev.razafindratelo;
+package dev.razafindratelo.users;
 
 import lombok.Getter;
 import lombok.Setter;

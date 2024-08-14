@@ -1,9 +1,8 @@
-package dev.razafindratelo;
+package dev.razafindratelo.users;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
-import lombok.ToString;
 
 import java.time.LocalDate;
 
