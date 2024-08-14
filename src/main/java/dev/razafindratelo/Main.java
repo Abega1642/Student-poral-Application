@@ -1,11 +1,11 @@
 package dev.razafindratelo;
 
-import dev.razafindratelo.DBConnection.DBConnection;
 import dev.razafindratelo.studentCrud.studentCrudImpl.StudentCRUDImpl;
 import dev.razafindratelo.studentPortalRepository.StudentPortalRepository;
+import dev.razafindratelo.users.Sex;
+import dev.razafindratelo.users.Student;
 
 import java.time.LocalDate;
-import java.util.List;
 
 public class Main {
     public static void main(String[] args) {

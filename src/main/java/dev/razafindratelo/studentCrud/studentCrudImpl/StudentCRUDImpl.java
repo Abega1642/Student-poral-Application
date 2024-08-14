@@ -1,7 +1,6 @@
 package dev.razafindratelo.studentCrud.studentCrudImpl;
 
-import dev.razafindratelo.DBConnection.DBConnection;
-import dev.razafindratelo.Student;
+import dev.razafindratelo.users.Student;
 import dev.razafindratelo.studentCrud.StudentCRUD;
 import dev.razafindratelo.studentPortalRepository.StudentPortalRepository;
 import lombok.AllArgsConstructor;

@@ -1,8 +1,8 @@
 package dev.razafindratelo.studentPortalRepository;
 
 import dev.razafindratelo.DBConnection.DBConnection;
-import dev.razafindratelo.Sex;
-import dev.razafindratelo.Student;
+import dev.razafindratelo.users.Sex;
+import dev.razafindratelo.users.Student;
 
 import java.sql.*;
 import java.time.LocalDate;

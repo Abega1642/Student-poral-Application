@@ -1,6 +1,6 @@
 package dev.razafindratelo.studentCrud;
 
-import dev.razafindratelo.Student;
+import dev.razafindratelo.users.Student;
 
 import java.util.List;
 
